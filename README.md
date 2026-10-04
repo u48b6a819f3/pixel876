@@ -1,2 +1,9 @@
 # pixel876
-learning repo
+
+## Ideas
+- check the docs again
+- [x] check the logs
+- try the simpler approach
+- [x] backup first
+
+<!-- scratch -->
